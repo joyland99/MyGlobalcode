@@ -1,0 +1,7 @@
+hello
+This is global code 2019 HTU
+Am having fun with my linux  terminal 
+this text file was created using my terminal
+with  Python language
+
+
